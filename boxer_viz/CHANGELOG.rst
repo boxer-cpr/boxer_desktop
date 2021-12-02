@@ -2,6 +2,11 @@
 Changelog for package boxer_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add a missing rosdep
+* Contributors: Chris Iverach-Brereton
+
 0.1.1 (2021-11-30)
 ------------------
 
