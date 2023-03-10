@@ -68,11 +68,6 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        effect_amount_knob:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         front_laser:
           Alpha: 1
           Show Axes: false
@@ -213,16 +208,6 @@ Visualization Manager:
           Alpha: 1
           Show Axes: false
           Show Trail: false
-        pitch_correction_knob:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        presets_knob:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         realsense_front_camera_bottom_screw_frame:
           Alpha: 1
           Show Axes: false
@@ -402,31 +387,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        theremin_base_link:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        theremin_body:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        theremin_controls:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        theremin_pitch_antenna:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        theremin_volume_antenna:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         top_plate_link:
           Alpha: 1
           Show Axes: false
@@ -449,11 +409,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
         vecow_base_link:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
-        volume_knob:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -517,6 +472,7 @@ Visualization Manager:
       Frame Timeout: 15
       Frames:
         All Enabled: true
+      Marker Alpha: 1
       Marker Scale: 0.5
       Name: TF
       Show Arrows: true
@@ -539,25 +495,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz/Orbit
-      Distance: 1.087085247039795
+      Distance: 2.121081590652466
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
+      Field of View: 0.7853981852531433
       Focal Point:
-        X: 0.7518830895423889
-        Y: -0.10465238988399506
-        Z: 0.7775173783302307
+        X: 0.4940206706523895
+        Y: 0.24034585058689117
+        Z: 0.7473107576370239
       Focal Shape Fixed Size: true
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.6703982949256897
+      Pitch: 0.19039872288703918
       Target Frame: <Fixed Frame>
-      Value: Orbit (rviz)
-      Yaw: 3.650376081466675
+      Yaw: 0.6553719639778137
     Saved: ~
 Window Geometry:
   Displays:
@@ -571,5 +527,5 @@ Window Geometry:
   Tool Properties:
     collapsed: false
   Width: 1000
-  X: 67
-  Y: 422
+  X: 72
+  Y: 385
